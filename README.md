@@ -62,6 +62,7 @@ magna: ["Aliqua Ut", "Enim Ad", "Minim Veniam"]
 - Unde omnis iste natus error
 
 </td>
+<br>
 
 <td width="40%" align="center" valign="top">
 
