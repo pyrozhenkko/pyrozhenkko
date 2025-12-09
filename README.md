@@ -82,9 +82,6 @@ magna: ["Aliqua Ut", "Enim Ad", "Minim Veniam"]
 
 <hr>
 
-<br>
-<hr>
-
 <a href="https://git.io/streak-stats">
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pyrozhenkko&theme=dark&hide_border=true"/>
