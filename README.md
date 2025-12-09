@@ -1,16 +1,100 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**pyrozhenkko/pyrozhenkko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<a href="https://git.io/streak-stats">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pyrozhenkko&theme=dark&hide_border=true"/>
+
+</a>
+
+<hr>
+
+<h2>🛠 Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+<br>
+
+<hr>
+
+<table>
+
+<tr>
+
+<td width="60%" valign="top">
+
+###  Lorem Ipsum
+
+```yaml
+
+lorem: "Dolor Sit Amet"
+
+consectetur: "Adipiscing "
+
+elit: "Sed Do Eiusmod"
+
+tempor: ["Incididunt", "Ut Labore", "Et Dolore"]
+
+magna: ["Aliqua Ut", "Enim Ad", "Minim Veniam"]
+
+```
+
+** Quis Nostrud:**
+
+-  Exercitation ullamco laboris nisi ut **aliquip ex ea**
+
+-  Commodo consequat duis aute **irure dolor** in reprehenderit
+
+-  In voluptate velit esse **cillum dolore** eu fugiat nulla
+
+-  Pariatur excepteur sint occaecat **cupidatat non** proident
+
+** Sunt In Culpa:**
+
+- Qui officia deserunt mollit anim
+
+- Id est laborum sed ut perspiciatis
+
+- Unde omnis iste natus error
+
+</td>
+
+<td width="40%" align="center" valign="top">
+
+<img src="claymore.jpg" width="250"/>
+
+<br><br>
+
+> *"Code is like humor. When you have to explain it, it's bad."*  
+
+> – Cory House
+
+<br>
+
+</td>
+
+</tr>
+
+</table>
+
+<hr>
+
+<br>
+
+</div>
+
