@@ -74,8 +74,6 @@ magna: ["Aliqua Ut", "Enim Ad", "Minim Veniam"]
 
 > – Cory House
 
-<br>
-
 </td>
 
 </tr>
