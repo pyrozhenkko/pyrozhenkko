@@ -67,7 +67,7 @@ magna: ["Aliqua Ut", "Enim Ad", "Minim Veniam"]
 
 <img src="claymore.jpg" width="250"/>
 
-<br><br>
+<br>
 
 > *"Code is like humor. When you have to explain it, it's bad."*  
 
