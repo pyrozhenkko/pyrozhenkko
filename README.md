@@ -63,8 +63,6 @@ magna: ["Aliqua Ut", "Enim Ad", "Minim Veniam"]
 
 </td>
 
-<br>
-<br>
 
 <td width="40%" align="center" valign="top">
 
