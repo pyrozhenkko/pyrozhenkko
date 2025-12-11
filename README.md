@@ -82,11 +82,7 @@ magna: ["Aliqua Ut", "Enim Ad", "Minim Veniam"]
 
 <hr>
 
-<a href="https://git.io/streak-stats">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pyrozhenkko&theme=dark&hide_border=true"/>
-
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pyrozhenkko&theme=java-dark&border_radius=4.9&card_width=600" alt="GitHub Streak" /></a>
 
 <hr>
 
