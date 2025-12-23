@@ -27,39 +27,38 @@
 
 <td width="60%" valign="top">
 
-###  Lorem Ipsum
+###  Java developer
+
 
 ```yaml
 
-lorem: "Dolor Sit Amet"
-
-consectetur: "Adipiscing "
-
-elit: "Sed Do Eiusmod"
-
-tempor: ["Incididunt", "Ut Labore", "Et Dolore"]
-
-magna: ["Aliqua Ut", "Enim Ad", "Minim Veniam"]
+  role: "Backend Developer"
+  location: "Lviv/Kyiv, Ukraine"
+  languages: ["Ukrainian native", "English B1+"]
+  primary_skills: ["Java", "Spring MVC", "PostgreSQL"]
+  frameworks: ["Spring Security", "Hibernate ORM", "JUnit"]
 
 ```
 
-** Quis Nostrud:**
+** Technical Stack:**
 
--  Exercitation ullamco laboris nisi ut **aliquip ex ea**
+-Java Core with understanding of OOP principles and Design Patterns
 
--  Commodo consequat duis aute **irure dolor** in reprehenderit
+-Spring MVC for building web applications
 
--  In voluptate velit esse **cillum dolore** eu fugiat nulla
+-Spring Security for authentication and authorization
 
--  Pariatur excepteur sint occaecat **cupidatat non** proident
+-PostgreSQL and Hibernate ORM for database management
 
-** Sunt In Culpa:**
+** Development Tools**
 
-- Qui officia deserunt mollit anim
+-Maven for dependency management
 
-- Id est laborum sed ut perspiciatis
+-Docker for containerization
 
-- Unde omnis iste natus error
+-Postman for API testing
+
+-JUnit for unit testing
 
 </td>
 
