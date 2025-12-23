@@ -42,23 +42,23 @@
 
 ** Technical Stack:**
 
--Java Core with understanding of OOP principles and Design Patterns
+-  Java Core with understanding of OOP principles and Design Patterns
 
--Spring MVC for building web applications
+-  Spring MVC for building web applications
 
--Spring Security for authentication and authorization
+-  Spring Security for authentication and authorization
 
--PostgreSQL and Hibernate ORM for database management
+-  PostgreSQL and Hibernate ORM for database management
 
 ** Development Tools**
 
--Maven for dependency management
+-  Maven for dependency management
 
--Docker for containerization
+-  Docker for containerization
 
--Postman for API testing
+-  Postman for API testing
 
--JUnit for unit testing
+-  JUnit for unit testing
 
 </td>
 
